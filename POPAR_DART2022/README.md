@@ -98,4 +98,4 @@ This research has been supported in part by ASU and Mayo Clinic through a Seed G
 
 ## License
 
-Released under the [ASU GitHub Project License](./LICENSE).
+Released under the [ASU GitHub Project License](../LICENSE).
